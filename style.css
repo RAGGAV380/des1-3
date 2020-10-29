@@ -1,0 +1,36 @@
+.line {
+    width: 70px;
+    height: 6px;
+    background-color: aqua;
+    margin: 8px auto;
+
+    #welcome {
+        position: absolute;
+        overflow: hidden;
+
+        color: blanchedalmond;
+        left: 0px;
+        right: 0px;
+        top: 0px;
+        bottom: 0px opacity: 0.83;
+        background: linear-gradient(#ff00fb 0%, #009dff 100%);
+        display: table;
+        width: 100%;
+        z-index: 9;
+        text-shadow: 10;
+    }
+
+    body {
+        text-align: center;
+    }
+    
+    .profile{
+    width: 60px;
+    height: 70px;    
+    }
+    
+    
+    
+    
+    
+    
